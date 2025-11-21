@@ -8,3 +8,6 @@ cryptography==43.0.3
 # API Framework (for Python API routes if needed)
 flask==3.1.0
 flask-cors==5.0.0
+openai
+requests
+pyaudio
